@@ -1,0 +1,7 @@
+export const TWERC721StakeAddress = "0x6b0248C6Ca3813a9250Efbd6AF7Dc2d0EEB07132";
+export const TWERC20Address = "0x5880aF81fABe043f5edEEA79EdD8458a514f1C59";
+export const TWERC1155Address = "0xc92E8d41aC36C39A404aBfa5f432D4525B9CF5d9";
+export const ERC721LazyMintAddress= "0xEd7F4be54337428201B56df2badB697aE3D10c34";
+export const TipJarAddress = "0x93DB3503e638847C7Cbf7889B14513D2c20c4fdD";
+
+
